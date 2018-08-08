@@ -1,0 +1,6 @@
+# Python program to illustrate
+# Append vs write mode
+file1 = open("myfile.txt","w")
+L = ["This is Delhi \n","This is Paris \n","This is London \n"] 
+print(file1)
+file1.close()

@@ -1,0 +1,6 @@
+x = str("s1")
+y = str(2)
+z = str('ashishshs')
+print(x)
+print(y)
+print(z)
